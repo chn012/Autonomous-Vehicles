@@ -8,4 +8,11 @@ This task is important in real world application since progress on the motion pr
 
 After training and comparing different models, our best performing model was a single layer encoder decode LSTM model with a RMSE of 2.25084.
 
+
+
+https://user-images.githubusercontent.com/59916633/142205197-1d19a5dd-fba9-4de7-9c7d-8bc0d27392e4.mp4
+
+
+
 For further detail, read the full report at Autonomous_Vehicle_Report.pdf.
+
